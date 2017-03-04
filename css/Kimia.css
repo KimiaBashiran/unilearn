@@ -13,16 +13,60 @@
 }
 
 .banners .left-one {
-    color: #f27c66;
-    border: 3px solid #f27c66
+    background-color: white;
+    border: 3px solid #f27c66;
+    color: #595959;
+}
+.banners .left-one:hover {
+    background-color: #f27c66;
+    color: #ffffff !important;
 }
 
 .banners .left-two {
-    color: #f9cb8f;
-    border: 3px solid #f9cb8f
+    background-color: white;
+    border: 3px solid #f9cb8f;
+    color: #595959;
+}
+.banners .left-two:hover {
+    background-color: #f9cb8f;
+    color: #ffffff !important;
+}
+
+.banners .left-three {
+    background-color: white;
+    border: 3px solid #18bb7c;
+    color: #595959;
+}
+.banners .left-three:hover {
+    background-color: #18bb7c;
+    color: #ffffff !important;
 }
 
 .banners .left-four {
-    color: #1992c1;
-    border: 3px solid #1992c1
+    background-color: white;
+    border: 3px solid #1992c1;
+    color: #595959;
+}
+.banners .left-four:hover {
+    background-color: #1992c1;
+    color: #ffffff !important;
+}
+
+.banners .left-one p{
+    font-size: 12px;
+}
+
+
+.banners .left-two p{
+    font-size: 12px;
+}
+
+
+.banners .left-three p{
+    font-size: 12px;
+}
+
+
+.banners .left-four p{
+    font-size: 12px;
 }
