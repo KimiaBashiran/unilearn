@@ -11,3 +11,18 @@
     line-height: 50px;
     height: 50px;
 }
+
+.banners .left-one {
+    color: #f27c66;
+    border: 3px solid #f27c66
+}
+
+.banners .left-two {
+    color: #f9cb8f;
+    border: 3px solid #f9cb8f
+}
+
+.banners .left-four {
+    color: #1992c1;
+    border: 3px solid #1992c1
+}
