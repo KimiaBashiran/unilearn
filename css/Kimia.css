@@ -1,0 +1,13 @@
+.widget-search form input[type='search'] {
+    height: 50px;
+}
+
+/*main-search {*/
+    /*height: 60px;*/
+/*}*/
+
+.widget-search form .search-submit {
+    width: 60px;
+    line-height: 50px;
+    height: 50px;
+}
