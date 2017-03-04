@@ -16,41 +16,45 @@
     background-color: white;
     border: 3px solid #f27c66;
     color: #595959;
+    cursor: default;
 }
-.banners .left-one:hover {
-    background-color: #f27c66;
-    color: #ffffff !important;
-}
+/*.banners .left-one:hover {*/
+    /*background-color: #f27c66;*/
+    /*color: #ffffff !important;*/
+/*}*/
 
 .banners .left-two {
     background-color: white;
     border: 3px solid #f9cb8f;
     color: #595959;
+    cursor: default;
 }
-.banners .left-two:hover {
-    background-color: #f9cb8f;
-    color: #ffffff !important;
-}
+/*.banners .left-two:hover {*/
+    /*background-color: #f9cb8f;*/
+    /*color: #ffffff !important;*/
+/*}*/
 
 .banners .left-three {
     background-color: white;
     border: 3px solid #18bb7c;
     color: #595959;
+    cursor: default;
 }
-.banners .left-three:hover {
-    background-color: #18bb7c;
-    color: #ffffff !important;
-}
+/*.banners .left-three:hover {*/
+    /*background-color: #18bb7c;*/
+    /*color: #ffffff !important;*/
+/*}*/
 
 .banners .left-four {
     background-color: white;
     border: 3px solid #1992c1;
     color: #595959;
+    cursor: default;
 }
-.banners .left-four:hover {
-    background-color: #1992c1;
-    color: #ffffff !important;
-}
+/*.banners .left-four:hover {*/
+    /*background-color: #1992c1;*/
+    /*color: #ffffff !important;*/
+/*}*/
 
 .banners .left-one p{
     font-size: 12px;
