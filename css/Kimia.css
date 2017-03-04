@@ -1,5 +1,6 @@
 .widget-search form input[type='search'] {
-    height: 50px;
+    height: 60px;
+    padding: 0 25px;
 }
 
 /*main-search {*/
@@ -7,9 +8,9 @@
 /*}*/
 
 .widget-search form .search-submit {
-    width: 60px;
-    line-height: 50px;
-    height: 50px;
+    width: 100px;
+    line-height: 60px;
+    height: 60px;
 }
 
 .banners .left-one {
@@ -73,4 +74,11 @@
 
 .banners .left-four p{
     font-size: 12px;
+}
+
+.cat-left-first {
+    min-height: 522px;
+}
+.cat-left-first > * {
+    vertical-align: top;
 }
