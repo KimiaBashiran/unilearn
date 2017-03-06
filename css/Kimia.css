@@ -125,3 +125,46 @@
 .banner-offer.bg-color-6alt {
     background-color: #454545 !important;
 }
+
+.slick-hero-slider-wrapper {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    zoom: 1;
+}
+
+.slick-list {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+    zoom: 1;
+}
+
+.course-item .course-name .price {
+    float: left;
+    color: #ffffff;
+}
+.course-item .course-name h3 {
+    float: right;
+    color: #ffffff;
+}
+.course-item .description{
+    max-height: 160px;
+    min-height: 160px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.main-nav ul li {
+    float: right;
+}
+.main-nav ul li ul{
+    right: 0px !important;
+    left: -100px !important;
+}
