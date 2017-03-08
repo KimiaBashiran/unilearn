@@ -182,10 +182,14 @@
 .main-nav ul li {
     float: right;
 }
-.main-nav ul li ul{
-    right: 0px !important;
-    left: -100px !important;
-}
+/*.main-nav ul li ul{*/
+    /*right: 0px !important;*/
+    /*left: -100px !important;*/
+/*}*/
+/*.main-nav ul .home ul, #menu-i6tem-34 ul, #menu-item-38 ul, #menu-item-41 ul, #menu-item-46 ul{*/
+    /*right: 0px !important;*/
+    /*left: -100px !important;*/
+/*}*/
 
 /*.mian-nav ul .home a:before {*/
     /*display: none;*/
